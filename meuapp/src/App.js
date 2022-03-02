@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import styled from 'styled-components'
 import { createGlobalStyle } from "styled-components"
-// import Img from "../assets/lixo.svg"
+
 
 const GlobalStyle = createGlobalStyle `
 *{
@@ -9,10 +9,6 @@ const GlobalStyle = createGlobalStyle `
   margin: 0;
   padding:0;
 }
-body{
-  color:red;
-}
-
 `
 
 
